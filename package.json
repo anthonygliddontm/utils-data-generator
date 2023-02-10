@@ -1,0 +1,15 @@
+{
+  "name": "write_csv_file",
+  "version": "1.0.0",
+  "description": "write a db file for population",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "anthony gliddon",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "uuid": "^9.0.0"
+  }
+}
